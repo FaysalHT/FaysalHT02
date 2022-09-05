@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaysalHT02
+- 👋 Hi, I’m @FaysalHT
 - 👀 I’m interested in Video Gaming
 - 🌱 I’m currently studying Computer Science at Green University of Bangladesh
 - 💞️ I’m trying to increase my knowledge of computer software and hardware
